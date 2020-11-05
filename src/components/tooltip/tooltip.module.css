@@ -1,0 +1,33 @@
+.icon {
+    height: 17px;
+    width: 17px;
+}
+
+.tooltipWrapper {
+    position: relative;
+}
+
+.content {
+    min-width: 250px;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    padding: 16px 10px;
+    position: absolute;
+    background-color: darkorchid;
+    z-index: 2;
+    top: 28px;
+    left: 8px;
+}
+
+.content:before {
+    content: '';
+    width: 0;
+    height: 0;
+    top: -10px;
+    left: 0;
+    border-left: 0 solid transparent;
+    border-right: 20px solid transparent;
+    border-bottom: 20px solid darkorchid;
+    position: absolute;
+}

@@ -1,0 +1,34 @@
+.app {
+  margin: 50px;
+}
+
+.inputWrapper {
+    display: flex;
+    align-items: center;
+    width: 270px;
+    margin-left: 28px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.ruble {
+    width: 130px;
+    margin-left: 6px;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.toggleWrapper {
+    margin-left: 28px;
+    width: 305px;
+}
+
+.title {
+    font-weight: bold;
+    color: silver;
+    margin-bottom: 15px;
+}
+
+.container {
+    margin-left: 20px;
+}

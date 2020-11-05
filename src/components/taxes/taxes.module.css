@@ -1,0 +1,25 @@
+.wrapper {
+    height: 120px;
+    width: 380px;
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding-left: 30px;
+}
+
+.line {
+    width: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.line:not(:last-child) {
+    margin-bottom: 5px;
+}
+
+.sum {
+    font-weight: bold;
+}

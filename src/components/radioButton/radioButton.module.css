@@ -1,0 +1,11 @@
+.text {
+    margin-left: 6px;
+    font-weight: bold;
+    display: flex;
+}
+
+.radio {
+    display: flex;
+    margin-bottom: 6px;
+}
+
