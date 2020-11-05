@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/softmedialab/static/css/main.d229915c.chunk.css",
+    "main.js": "/softmedialab/static/js/main.025fd6a6.chunk.js",
+    "main.js.map": "/softmedialab/static/js/main.025fd6a6.chunk.js.map",
+    "runtime-main.js": "/softmedialab/static/js/runtime-main.f373dfb3.js",
+    "runtime-main.js.map": "/softmedialab/static/js/runtime-main.f373dfb3.js.map",
+    "static/js/2.9777a616.chunk.js": "/softmedialab/static/js/2.9777a616.chunk.js",
+    "static/js/2.9777a616.chunk.js.map": "/softmedialab/static/js/2.9777a616.chunk.js.map",
+    "static/js/3.6e6e0b1e.chunk.js": "/softmedialab/static/js/3.6e6e0b1e.chunk.js",
+    "static/js/3.6e6e0b1e.chunk.js.map": "/softmedialab/static/js/3.6e6e0b1e.chunk.js.map",
+    "index.html": "/softmedialab/index.html",
+    "static/css/main.d229915c.chunk.css.map": "/softmedialab/static/css/main.d229915c.chunk.css.map",
+    "static/js/2.9777a616.chunk.js.LICENSE.txt": "/softmedialab/static/js/2.9777a616.chunk.js.LICENSE.txt",
+    "static/media/close.8b3da06e.svg": "/softmedialab/static/media/close.8b3da06e.svg",
+    "static/media/info.4a50c006.svg": "/softmedialab/static/media/info.4a50c006.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f373dfb3.js",
+    "static/js/2.9777a616.chunk.js",
+    "static/css/main.d229915c.chunk.css",
+    "static/js/main.025fd6a6.chunk.js"
+  ]
+}
